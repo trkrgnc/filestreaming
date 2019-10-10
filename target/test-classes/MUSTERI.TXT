@@ -1,0 +1,10 @@
+musteri_no;musteri_tipi;ad;soyad
+123456789;T;Ahmet Mehmet;Hüseyin
+123489;G;Mehmet;Atmaca
+12345678;T;Ahmet Mehmet2;Hüseyin2
+12348;G;Mehmet2;Atmaca2
+1234567;T;Ahmet Mehmet3;Hüseyin3
+1234;G;Mehmet3;Atmaca3
+123456;T;Ahmet Mehmet4;Hüseyin4
+123;G;Mehmet4;Atmaca4
+32;G;Mehmet4;Atmaca4

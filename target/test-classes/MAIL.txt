@@ -1,0 +1,13 @@
+musteri_no;adres_tipi;adres
+123456789;E;a@a.com
+123489;W;www.a.com
+12345678;E;b@b.com.tr
+12348;W;www.b.com
+1234567;E;c@c.com
+1234;W;www.c.com
+123456;E;d@d.com
+123;W;www.d.com.tr
+32;E;e@e.co
+21;E;f@f.com.tr
+32;E;turker@e.co
+32;E;sdfsdf@e.co

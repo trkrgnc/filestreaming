@@ -1,0 +1,17 @@
+com\garanti\test\customerproject\CustomerprojectApplication.class
+com\garanti\test\customerproject\model\Phone.class
+com\garanti\test\customerproject\constants\FileType.class
+com\garanti\test\customerproject\business\PhoneProcess.class
+com\garanti\test\customerproject\business\Process.class
+com\garanti\test\customerproject\business\ReportProcessor.class
+com\garanti\test\customerproject\business\Process$1.class
+com\garanti\test\customerproject\business\ProcessService.class
+com\garanti\test\customerproject\business\MailProcess.class
+com\garanti\test\customerproject\constants\JobType.class
+com\garanti\test\customerproject\util\CustomerUtils.class
+com\garanti\test\customerproject\util\DataValidation.class
+com\garanti\test\customerproject\error\ParameterException.class
+com\garanti\test\customerproject\business\CustomerProcess.class
+com\garanti\test\customerproject\error\FormatException.class
+com\garanti\test\customerproject\util\FileWriter.class
+com\garanti\test\customerproject\constants\CustomerConstants.class
